@@ -1,0 +1,124 @@
+package daliaAutomatedTesting.Selenium.stepDefinition;
+
+import java.util.concurrent.TimeUnit;
+
+import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.After;
+import cucumber.api.java.Before;
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class EndToEndTest {
+
+	WebDriver driver;
+
+	@Before
+	public void setup() {
+		System.setProperty("webdriver.chrome.driver", "resources/chromedriver.exe");
+		this.driver = new ChromeDriver();
+		this.driver.manage().window().maximize();
+		this.driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
+		this.driver.manage().timeouts().setScriptTimeout(60, TimeUnit.SECONDS);
+	}
+
+	@After
+	public void tearDown() {
+		this.driver.manage().deleteAllCookies();
+		this.driver.quit();
+		this.driver = null;
+	}
+
+	@Given("^User navigates to surveyinterface url$")
+	public void user_navigates_to_surveyinterface_url() throws Throwable {
+		driver.get(
+				"https://surveyinterface-v2.opinionsample.com/#/surveys/ab320070-bbad-0134-bb62-0a6b3886cf3d/screens/page_1?publisher_user_id=07b59010-86d2-0131-c9a9-0a424708edaa&panel_user_id=PANEL_USER_TEST_22fd1640-d94b-0137-0d5b-029188bc54b8&panel_user_id_kind=PANEL_USER_KIND_TEST&pparam_offer_click_id=OFFER_CLICK_TEST_22fd1640-d94b-0137-0d5b-029188bc54b8&pparam_provider_user_id=%5Bprovider_user_uuid%5D&is_test&survey_id=ab320070-bbad-0134-bb62-0a6b3886cf3d&screen_id=page_1");
+	}
+
+	@When("^User submits a valid answer on the question one page$")
+	public void user_submits_a_valid_answer_on_the_question_one_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[@class='ng-binding ng-scope']")).click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question two page$")
+	public void user_submits_a_valid_answer_on_the_question_two_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[contains(.,'1-3 hours')]")).click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question three page$")
+	public void user_submits_a_valid_answer_on_the_question_three_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[contains(text(),'YouTube')]")).click();
+		driver.findElement(By.xpath("//label[contains(text(),'Facebook')]")).click();
+		driver.findElement(By.xpath("//label[contains(text(),'Instagram')]")).click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question four page$")
+	public void user_submits_a_valid_answer_on_the_question_four_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[contains(text(),'Radio')]")).click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question five page$")
+	public void user_submits_a_valid_answer_on_the_question_five_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//input[@name='input']")).sendKeys("Warren Buffett");
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question six page$")
+	public void user_submits_a_valid_answer_on_the_question_six_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[@for='answer_6_O0030'][contains(.,'Neither agree nor disagree')]"))
+				.click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question seven page$")
+	public void user_submits_a_valid_answer_on_the_question_seven_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//input[@name='input']")).sendKeys("7");
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question eight page$")
+	public void user_submits_a_valid_answer_on_the_question_eight_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[@for='answer_8_O0010'][contains(.,'City')]")).click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question nine page$")
+	public void user_submits_a_valid_answer_on_the_question_nine_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[@for='answer_9_O0010'][contains(.,'The Godfather')]")).click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@And("^User submits a valid answer on the question ten page$")
+	public void user_submits_a_valid_answer_on_the_question_ten_page() throws Throwable {
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//label[@for='answer_10a_O0040'][contains(.,'Narrative/story')]")).click();
+		driver.findElement(By.xpath("//button[@class='btn next_button_button custom_button ng-binding']")).click();
+	}
+
+	@Then("^User is taken to the thanks completion page$")
+	public void user_is_taken_to_the_thanks_completion_page() throws Throwable {
+		Thread.sleep(3000);
+		WebElement allDonetext = driver.findElement(By.xpath("//h1[@class='ng-binding'][contains(.,'All done!')]"));
+		Assert.assertEquals(true, allDonetext.isDisplayed());
+	}
+
+}

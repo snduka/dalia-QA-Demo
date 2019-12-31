@@ -1,0 +1,16 @@
+Feature: End to end test of the Automated Testing challange survey
+	User should be able to open survey and answer questions
+	
+Scenario: End to end test Login into account with correct details
+	Given User navigates to surveyinterface url
+	When User enter a valid answer on page 1
+	And User enter a valid answer on page 2
+	And User enter a valid answer on page 3
+	And User enter a valid answer on page 4
+	And User enter a valid answer on page 5
+	And User enter a valid answer on page 6
+	And User enter a valid answer on page 7
+	And User enter a valid answer on page 8
+	And User enter a valid answer on page 9
+	And User enter a valid answer on page 10
+	Then User is taken to the thanks completion page 

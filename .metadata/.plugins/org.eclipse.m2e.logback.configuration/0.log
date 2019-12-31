@@ -1,0 +1,746 @@
+2019-12-24 16:37:19,568 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-25 11:25:25,706 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-26 10:49:28,560 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-26 10:55:20,224 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml
+2019-12-26 10:55:22,558 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-26 10:55:23,033 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2019-12-26 10:55:23,039 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-12-26 10:55:23,104 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-12-26 10:55:23,716 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 10:55:23,716 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 10:55:23,717 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 10:55:23,718 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:14:33,293 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:14:33,293 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:14:33,294 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:14:33,294 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:15:21,376 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:15:21,376 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:15:21,377 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:15:21,378 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:15:58,151 [Worker-17: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:15:58,151 [Worker-17: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-26 11:15:59,783 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:15:59,783 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:15:59,784 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:15:59,784 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:19:09,870 [Worker-16: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:19:09,870 [Worker-16: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 11:19:11,618 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:19:11,618 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:19:11,619 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:19:11,619 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:20:54,189 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.6.1/maven-core-3.6.1-sources.jar
+2019-12-26 11:20:54,901 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.6.1/maven-core-3.6.1-sources.jar
+2019-12-26 11:20:55,146 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1-sources.jar
+2019-12-26 11:20:55,368 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1-sources.jar
+2019-12-26 11:20:55,589 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.6.1/maven-settings-3.6.1-sources.jar
+2019-12-26 11:20:55,763 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.6.1/maven-settings-3.6.1-sources.jar
+2019-12-26 11:20:55,992 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.6.1/maven-settings-builder-3.6.1-sources.jar
+2019-12-26 11:20:56,191 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.6.1/maven-settings-builder-3.6.1-sources.jar
+2019-12-26 11:20:56,411 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.6.1/maven-builder-support-3.6.1-sources.jar
+2019-12-26 11:20:56,534 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.6.1/maven-builder-support-3.6.1-sources.jar
+2019-12-26 11:20:56,752 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.6.1/maven-repository-metadata-3.6.1-sources.jar
+2019-12-26 11:20:56,887 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.6.1/maven-repository-metadata-3.6.1-sources.jar
+2019-12-26 11:20:57,106 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.6.1/maven-artifact-3.6.1-sources.jar
+2019-12-26 11:20:57,231 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.6.1/maven-artifact-3.6.1-sources.jar
+2019-12-26 11:20:57,452 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.6.1/maven-plugin-api-3.6.1-sources.jar
+2019-12-26 11:20:57,661 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.6.1/maven-plugin-api-3.6.1-sources.jar
+2019-12-26 11:20:57,906 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.6.1/maven-model-builder-3.6.1-sources.jar
+2019-12-26 11:20:58,150 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.6.1/maven-model-builder-3.6.1-sources.jar
+2019-12-26 11:20:58,375 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-resolver-provider/3.6.1/maven-resolver-provider-3.6.1-sources.jar
+2019-12-26 11:20:58,591 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-resolver-provider/3.6.1/maven-resolver-provider-3.6.1-sources.jar
+2019-12-26 11:20:58,804 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.3.3/maven-resolver-api-1.3.3-sources.jar
+2019-12-26 11:20:59,152 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.3.3/maven-resolver-api-1.3.3-sources.jar
+2019-12-26 11:20:59,377 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-spi/1.3.3/maven-resolver-spi-1.3.3-sources.jar
+2019-12-26 11:20:59,512 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-spi/1.3.3/maven-resolver-spi-1.3.3-sources.jar
+2019-12-26 11:20:59,738 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.3.3/maven-resolver-util-1.3.3-sources.jar
+2019-12-26 11:20:59,972 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.3.3/maven-resolver-util-1.3.3-sources.jar
+2019-12-26 11:21:00,250 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3-sources.jar
+2019-12-26 11:21:00,398 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3-sources.jar
+2019-12-26 11:21:00,648 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1-sources.jar
+2019-12-26 11:21:00,759 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1-sources.jar
+2019-12-26 11:21:00,984 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14-sources.jar
+2019-12-26 11:21:01,096 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14-sources.jar
+2019-12-26 11:21:01,349 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0-sources.jar
+2019-12-26 11:21:01,725 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0-sources.jar
+2019-12-26 11:21:01,954 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1-sources.jar
+2019-12-26 11:21:02,066 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1-sources.jar
+2019-12-26 11:21:02,306 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.6.1/maven-embedder-3.6.1-sources.jar
+2019-12-26 11:21:02,452 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.6.1/maven-embedder-3.6.1-sources.jar
+2019-12-26 11:21:02,732 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.6.1/maven-compat-3.6.1-sources.jar
+2019-12-26 11:21:03,087 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.6.1/maven-compat-3.6.1-sources.jar
+2019-12-26 11:21:03,330 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.3.2/wagon-provider-api-3.3.2-sources.jar
+2019-12-26 11:21:03,471 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.3.2/wagon-provider-api-3.3.2-sources.jar
+2019-12-26 11:21:03,707 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.17.6/aether-connector-okhttp-0.17.6-sources.jar
+2019-12-26 11:21:03,842 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.17.6/aether-connector-okhttp-0.17.6-sources.jar
+2019-12-26 11:21:04,075 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.14.1/okhttp-3.14.1-sources.jar
+2019-12-26 11:21:04,527 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.14.1/okhttp-3.14.1-sources.jar
+2019-12-26 11:21:04,743 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.17.3/okio-1.17.3-sources.jar
+2019-12-26 11:21:04,901 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.17.3/okio-1.17.3-sources.jar
+2019-12-26 11:21:05,127 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-impl/1.3.3/maven-resolver-impl-1.3.3-sources.jar
+2019-12-26 11:21:05,345 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-impl/1.3.3/maven-resolver-impl-1.3.3-sources.jar
+2019-12-26 11:21:05,555 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-connector-basic/1.3.3/maven-resolver-connector-basic-1.3.3-sources.jar
+2019-12-26 11:21:05,701 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-connector-basic/1.3.3/maven-resolver-connector-basic-1.3.3-sources.jar
+2019-12-26 11:21:05,908 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-wagon/1.3.3/maven-resolver-transport-wagon-1.3.3-sources.jar
+2019-12-26 11:21:06,066 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-transport-wagon/1.3.3/maven-resolver-transport-wagon-1.3.3-sources.jar
+2019-12-26 11:21:06,287 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/3.3.2/wagon-file-3.3.2-sources.jar
+2019-12-26 11:21:06,401 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/3.3.2/wagon-file-3.3.2-sources.jar
+2019-12-26 11:21:06,784 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2019-12-26 11:21:06,924 [Worker-16: Searching...] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2019-12-26 11:22:12,187 [Worker-4: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:22:12,188 [Worker-4: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-26 11:22:13,307 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:22:13,307 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:22:13,307 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:22:13,307 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:22:19,766 [Worker-16: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:22:19,766 [Worker-16: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 11:22:21,455 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:22:21,455 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:22:21,456 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:22:21,456 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:24:11,848 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:24:11,848 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:24:11,849 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:24:11,849 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:24:17,826 [Worker-17: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:24:17,826 [Worker-17: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-26 11:24:18,942 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:24:18,942 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:24:18,943 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:24:18,943 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:24:29,661 [Worker-18: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:24:29,661 [Worker-18: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 11:24:31,331 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:24:31,331 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:24:31,332 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:24:31,332 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:29:42,526 [Worker-18: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </pluginManagement> must match start tag name <plugins> from line 20 (position: TEXT seen ...</plugin>\r\n\t\t</pluginManagement>... @30:22) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[na:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </pluginManagement> must match start tag name <plugins> from line 20 (position: TEXT seen ...</plugin>\r\n\t\t</pluginManagement>... @30:22) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginManagement(MavenXpp3Reader.java:3007) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:978) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[na:na]
+	... 26 common frames omitted
+2019-12-26 11:29:43,776 [Worker-18: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </pluginManagement> must match start tag name <plugins> from line 20 (position: TEXT seen ...</plugin>\r\n\t\t</pluginManagement>... @30:22) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[na:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </pluginManagement> must match start tag name <plugins> from line 20 (position: TEXT seen ...</plugin>\r\n\t\t</pluginManagement>... @30:22) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parsePluginManagement(MavenXpp3Reader.java:3007) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:978) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[na:na]
+	... 26 common frames omitted
+2019-12-26 11:31:25,347 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-26 11:31:25,730 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:31:25,730 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:31:25,731 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:31:25,731 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:31:27,129 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:31:27,130 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:31:27,130 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:31:27,130 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:31:49,814 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:31:49,814 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:31:49,815 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:31:49,815 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:32:04,369 [Worker-18: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:32:04,369 [Worker-18: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-26 11:32:05,570 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:32:05,571 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:32:05,571 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:32:05,572 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:32:12,798 [Worker-22: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 11:32:12,798 [Worker-22: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 11:32:21,800 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:32:21,800 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:32:21,801 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:32:21,801 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 11:32:45,879 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-26 11:32:46,040 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-26 11:32:46,382 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2019-12-26 11:32:46,382 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-12-26 11:32:46,706 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-12-26 11:32:47,146 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:32:47,146 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 11:32:47,148 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 11:32:47,148 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:09:08,665 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:09:08,665 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:09:08,666 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:09:08,666 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:11:50,518 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:11:50,518 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:11:50,519 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:11:50,519 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:15:53,682 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:15:53,682 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:15:53,683 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:15:53,683 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:16:15,017 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:16:15,018 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:16:15,018 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:16:15,018 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:19:32,469 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:19:32,469 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:19:32,470 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:19:32,470 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:19:51,141 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:19:51,141 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:19:51,142 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:19:51,142 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:20:33,265 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:20:33,265 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:20:33,266 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:20:33,266 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:20:55,289 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:20:55,289 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:20:55,290 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:20:55,290 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:22:19,989 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:22:19,989 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:22:19,990 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:22:19,990 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:23:45,779 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:23:45,779 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:23:45,780 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:23:45,780 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:23:51,926 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:23:51,926 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:23:51,927 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:23:51,927 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:24:19,646 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:24:19,646 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:24:19,646 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:24:19,647 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:24:37,141 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:24:37,141 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:24:37,141 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:24:37,141 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:25:33,262 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:25:33,263 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:25:33,263 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:25:33,263 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:31:09,949 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:31:09,949 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:31:09,950 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:31:09,950 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:36:34,223 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:34,223 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:36:34,224 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:36:34,224 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:38:14,818 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:38:14,818 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:38:14,818 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:38:14,818 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:39:09,947 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:39:09,947 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:39:09,947 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:39:09,948 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:40:16,171 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:40:16,171 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:40:16,172 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:40:16,172 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:40:29,045 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:40:29,045 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:40:29,046 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:40:29,046 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 12:40:37,086 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:40:37,086 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 12:40:37,086 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 12:40:37,087 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:19:21,298 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:19:21,298 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:19:21,299 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:19:21,299 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:21:39,331 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:21:39,331 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:21:39,332 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:21:39,332 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:21:48,443 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:21:48,444 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:21:48,445 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:21:48,445 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:22:38,632 [Worker-26: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:22:38,633 [Worker-26: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:22:38,633 [Worker-26: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:22:38,633 [Worker-26: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:23:11,974 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:23:11,974 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:23:11,975 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:23:11,975 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:26:44,397 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-26 14:26:46,534 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:26:46,534 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:26:46,536 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:26:46,536 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:26:47,907 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:26:47,907 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:26:47,907 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:26:47,908 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:26:55,373 [Worker-34: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 14:26:55,373 [Worker-34: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-26 14:26:56,676 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:26:56,676 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:26:56,677 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:26:56,677 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:27:02,968 [Worker-26: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-26 14:27:02,968 [Worker-26: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-26 14:27:06,940 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:27:06,940 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:27:06,940 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:27:06,941 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 14:56:26,713 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:56:26,713 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 14:56:26,714 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 14:56:26,714 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 15:00:22,559 [Worker-30: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:00:22,560 [Worker-30: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 15:00:22,560 [Worker-30: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:00:22,561 [Worker-30: Launching Runner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 15:03:29,230 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:03:29,230 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 15:03:29,231 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:03:29,231 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 15:09:56,991 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:09:56,991 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 15:09:56,992 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:09:56,992 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 15:10:54,448 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:54,448 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 15:10:54,449 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:10:54,449 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 15:31:48,697 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:31:48,697 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 15:31:48,698 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:31:48,698 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 15:31:51,737 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:31:51,737 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 15:31:51,737 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:31:51,737 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 15:31:59,061 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:31:59,061 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 15:31:59,062 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 15:31:59,062 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-26 17:43:22,398 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 17:43:22,399 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-26 17:43:22,399 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-26 17:43:22,399 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 16:43:45,382 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-27 16:52:24,971 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:52:24,971 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 16:52:24,973 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:52:24,973 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 16:53:52,926 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:53:52,926 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 16:53:52,927 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:53:52,927 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 16:53:58,639 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:53:58,639 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 16:53:58,641 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:53:58,641 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 16:56:45,474 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:56:45,475 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 16:56:45,476 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 16:56:45,476 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:02:22,266 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:02:22,266 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:02:22,267 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:02:22,267 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:07:47,908 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:07:47,908 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:07:47,909 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:07:47,910 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:09:18,233 [Worker-21: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-27 17:09:18,234 [Worker-21: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-27 17:09:19,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:09:19,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:09:19,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:09:19,861 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:09:26,103 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-12-27 17:09:35,365 [Worker-20: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-27 17:09:35,366 [Worker-20: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-27 17:09:41,962 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:09:41,962 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:09:41,964 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:09:41,964 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:14:14,520 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:14:14,520 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:14:14,520 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:14:14,521 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:22:25,054 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:22:25,054 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:22:25,055 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:22:25,055 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:47:42,189 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.0/maven-surefire-plugin-2.22.0.jar
+2019-12-27 17:47:42,331 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.0/maven-surefire-plugin-2.22.0.jar
+2019-12-27 17:47:42,616 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-27 17:47:43,088 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:47:43,089 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:47:43,090 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:47:43,090 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:47:56,170 [Worker-4: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-27 17:47:56,170 [Worker-4: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-27 17:47:57,616 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:47:57,616 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:47:57,617 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:47:57,617 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-27 17:48:03,142 [Worker-4: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-27 17:48:03,142 [Worker-4: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-27 17:48:18,438 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:48:18,438 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-27 17:48:18,439 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-27 17:48:18,439 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 00:16:37,823 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 00:16:37,823 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 00:16:37,824 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 00:16:37,824 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 00:24:34,732 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 00:24:34,732 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 00:24:34,733 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 00:24:34,733 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:07:37,921 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:07:37,923 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:07:37,925 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:07:37,926 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:08:18,581 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-28 10:12:14,737 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:12:14,737 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:12:14,738 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:12:14,738 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:26:19,457 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:26:19,459 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:26:19,461 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:26:19,461 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:26:43,977 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:26:43,977 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:26:43,978 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:26:43,978 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:27:17,470 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:27:17,470 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:27:17,471 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:27:17,471 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:28:01,272 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-28 10:28:02,655 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-28 10:28:03,170 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 10:28:03,287 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 10:28:03,343 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 10:28:03,405 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 10:28:03,752 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2019-12-28 10:28:03,753 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-12-28 10:28:03,931 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-12-28 10:28:04,425 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:28:04,425 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:28:04,426 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:28:04,426 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:31:53,477 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-28 10:31:53,902 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:31:53,902 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:31:53,903 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:31:53,903 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:31:55,475 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:31:55,475 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:31:55,476 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:31:55,476 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:32:09,895 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:32:09,895 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:32:09,896 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:32:09,896 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:32:25,165 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-28 10:32:25,340 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-28 10:32:25,713 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 10:32:25,819 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 10:32:25,872 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 10:32:25,932 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 10:32:26,257 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2019-12-28 10:32:26,257 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-12-28 10:32:26,387 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-28 10:32:26,874 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:32:26,874 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:32:26,875 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:32:26,875 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:33:16,795 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:33:16,795 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:33:16,795 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:33:16,795 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:34:07,156 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:34:07,156 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:34:07,156 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:34:07,156 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:34:49,698 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:34:49,698 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:34:49,699 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:34:49,699 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:36:03,141 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:36:03,141 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:36:03,142 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:36:03,142 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:36:07,659 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:36:07,659 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:36:07,660 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:36:07,660 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:39:48,050 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:39:48,051 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:39:48,051 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:39:48,051 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:39:58,286 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:39:58,286 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:39:58,287 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:39:58,287 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:40:36,268 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:40:36,269 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:40:36,269 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:40:36,269 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:40:41,048 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:40:41,048 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:40:41,049 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:40:41,049 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:41:17,544 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:17,544 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:41:17,545 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:17,545 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:41:24,895 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:24,895 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:41:24,896 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:24,896 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:41:43,622 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:43,622 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:41:43,623 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:43,623 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:41:48,702 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:48,703 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:41:48,703 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:48,703 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:41:51,855 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:51,855 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:41:51,856 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:41:51,856 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:45:35,982 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:45:35,982 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:45:35,983 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:45:35,983 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:45:57,777 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:45:57,777 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:45:57,778 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:45:57,778 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:46:04,308 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:46:04,308 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:46:04,309 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:46:04,309 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:46:14,928 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-28 10:46:15,102 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-28 10:46:15,504 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 10:46:15,614 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 10:46:15,669 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 10:46:15,723 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 10:46:16,046 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2019-12-28 10:46:16,047 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-12-28 10:46:16,197 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-28 10:46:16,695 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:46:16,695 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:46:16,696 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:46:16,696 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:50:07,241 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:50:07,241 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:50:07,242 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:50:07,242 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:59:33,610 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:59:33,610 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:59:33,611 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:59:33,611 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 10:59:39,444 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:59:39,445 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 10:59:39,445 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 10:59:39,445 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:02:44,793 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:02:44,793 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:02:44,794 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:02:44,794 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:03:01,313 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:03:01,314 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:03:01,315 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:03:01,315 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:14:03,952 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:14:03,952 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:14:03,953 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:14:03,953 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:14:07,545 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:14:07,545 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:14:07,546 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:14:07,546 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:16:14,264 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:16:14,265 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:16:14,265 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:16:14,265 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:16:21,866 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:16:21,866 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:16:21,867 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:16:21,867 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:52:03,960 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-28 11:52:04,312 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:04,312 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:52:04,313 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:04,313 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:52:05,729 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:05,729 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:52:05,730 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:05,730 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:52:13,278 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:13,279 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:52:13,279 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:13,279 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:52:21,838 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-28 11:52:21,988 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: daliaAutomatedTesting:Selenium:0.0.1-SNAPSHOT @ C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\pom.xml.
+2019-12-28 11:52:22,342 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 11:52:22,449 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/maven-metadata.xml
+2019-12-28 11:52:22,530 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 11:52:22,571 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/maven-metadata.xml
+2019-12-28 11:52:22,806 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/main/java
+2019-12-28 11:52:22,806 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-12-28 11:52:22,908 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-12-28 11:52:23,335 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:23,335 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:52:23,336 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:23,336 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:52:39,322 [Worker-30: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-28 11:52:39,322 [Worker-30: Launching Executing clean in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-12-28 11:52:40,605 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:40,605 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:52:40,605 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:40,606 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:52:45,214 [Worker-31: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium
+2019-12-28 11:52:45,214 [Worker-31: Launching Executing install in C__Users_snduk_Desktop_mobile dev and automation_daliaAutomatedTesting_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-12-28 11:52:50,306 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:50,307 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:52:50,307 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:52:50,308 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:54:38,587 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:54:38,587 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:54:38,588 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:54:38,588 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-28 11:57:31,157 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:57:31,157 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-28 11:57:31,158 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-28 11:57:31,158 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 12:45:52,374 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:45:52,377 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 12:45:52,378 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:45:52,378 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 12:45:55,063 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-12-31 12:49:10,751 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:49:10,751 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 12:49:10,752 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:49:10,752 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 12:49:46,524 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:49:46,524 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 12:49:46,525 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:49:46,525 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 12:50:53,489 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:50:53,489 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 12:50:53,490 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 12:50:53,490 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 13:40:55,016 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:40:55,017 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 13:40:55,018 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:40:55,019 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 13:41:47,081 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:41:47,081 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 13:41:47,082 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:41:47,083 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 13:43:07,700 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:43:07,701 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 13:43:07,701 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:43:07,701 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 13:56:24,933 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:56:24,933 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 13:56:24,934 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 13:56:24,934 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 14:15:39,683 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:15:39,683 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 14:15:39,684 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:15:39,684 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 14:20:00,826 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:20:00,827 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 14:20:00,827 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:20:00,828 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 14:22:41,075 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:22:41,075 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 14:22:41,076 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:22:41,077 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources
+2019-12-31 14:23:34,823 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:23:34,823 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\main\resources
+2019-12-31 14:23:34,824 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-31 14:23:34,824 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\snduk\Desktop\mobile dev and automation\daliaAutomatedTesting\Selenium\src\test\resources

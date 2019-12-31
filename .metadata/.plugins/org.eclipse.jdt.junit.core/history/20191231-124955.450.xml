@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Runner" project="Selenium" tests="12" started="12" failures="0" errors="2" ignored="0">
+  <testsuite name="daliaAutomatedTesting.Selenium.runner.Runner" time="24.583">
+    <testsuite name="Feature: End to end test of the Automated Testing challange survey" time="24.583">
+      <testsuite name="Scenario: End to end test Login into account with correct details" time="24.583" incomplete="true">
+        <error>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='mailto:contact@yunosurveys.com'][contains(.,'contact@yunosurveys.com')]"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-8S8DUTU', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}), userDataDir=C:\Users\snduk\AppData\Local\Temp\scoped_dir30032_1520686150}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:57041}, acceptInsecureCerts=false, browserVersion=79.0.3945.88, browserName=chrome, javascriptEnabled=true, platformName=windows nt, setWindowRect=true}]
+Session ID: 5761801326c4a17e7b7c715e87b91187
+*** Element info: {Using=xpath, value=//a[@href='mailto:contact@yunosurveys.com'][contains(.,'contact@yunosurveys.com')]}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:410)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:509)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)&#13;
+	at daliaAutomatedTesting.Selenium.stepDefinition.EndToEndTest.user_is_taken_to_the_thanks_completion_page(EndToEndTest.java:131)&#13;
+	at ✽.Then User is taken to the thanks completion page(EndToEndTest.feature:16)&#13;
+&#13;
+</error>
+        <testcase name="Given User navigates to surveyinterface url" classname="Scenario: End to end test Login into account with correct details" time="2.151"/>
+        <testcase name="When User submits a valid answer on the question one page" classname="Scenario: End to end test Login into account with correct details" time="2.107"/>
+        <testcase name="And User submits a valid answer on the question two page" classname="Scenario: End to end test Login into account with correct details" time="2.262"/>
+        <testcase name="And User submits a valid answer on the question three page" classname="Scenario: End to end test Login into account with correct details" time="2.123"/>
+        <testcase name="And User submits a valid answer on the question four page" classname="Scenario: End to end test Login into account with correct details" time="2.214"/>
+        <testcase name="And User submits a valid answer on the question five page" classname="Scenario: End to end test Login into account with correct details" time="2.134"/>
+        <testcase name="And User submits a valid answer on the question six page" classname="Scenario: End to end test Login into account with correct details" time="2.121"/>
+        <testcase name="And User submits a valid answer on the question seven page" classname="Scenario: End to end test Login into account with correct details" time="2.115"/>
+        <testcase name="And User submits a valid answer on the question eight page" classname="Scenario: End to end test Login into account with correct details" time="2.137"/>
+        <testcase name="And User submits a valid answer on the question nine page" classname="Scenario: End to end test Login into account with correct details" time="2.137"/>
+        <testcase name="And User submits a valid answer on the question ten page" classname="Scenario: End to end test Login into account with correct details" time="3.08"/>
+        <testcase name="Then User is taken to the thanks completion page" classname="Scenario: End to end test Login into account with correct details" time="0.002">
+          <error>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='mailto:contact@yunosurveys.com'][contains(.,'contact@yunosurveys.com')]"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-8S8DUTU', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}), userDataDir=C:\Users\snduk\AppData\Local\Temp\scoped_dir30032_1520686150}, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=ANY, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:57041}, acceptInsecureCerts=false, browserVersion=79.0.3945.88, browserName=chrome, javascriptEnabled=true, platformName=windows nt, setWindowRect=true}]
+Session ID: 5761801326c4a17e7b7c715e87b91187
+*** Element info: {Using=xpath, value=//a[@href='mailto:contact@yunosurveys.com'][contains(.,'contact@yunosurveys.com')]}&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)&#13;
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:410)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:509)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)&#13;
+	at daliaAutomatedTesting.Selenium.stepDefinition.EndToEndTest.user_is_taken_to_the_thanks_completion_page(EndToEndTest.java:131)&#13;
+	at ✽.Then User is taken to the thanks completion page(EndToEndTest.feature:16)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

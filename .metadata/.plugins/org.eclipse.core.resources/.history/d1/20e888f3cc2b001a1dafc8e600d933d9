@@ -1,0 +1,5 @@
+package daliaAutomatedTesting.Selenium.utils;
+
+public class WaitUtils {
+
+}
